@@ -1,0 +1,32 @@
+{
+  "powerButton": {
+    "message": "Aπενεργοποιήστε ή ενεργοποιήστε την επέκταση στην τρέχουσα καρτέλα",
+    "description": ""
+  },
+
+  "powerText": {
+    "message": "YΜπορείτε να αναγκάσετε χειροκίνητα αυτήν την ιστοσελίδα να αναγνωριστεί ως εφαρμογή iTV.",
+    "description": ""
+  },
+
+  "titleUI": {
+    "message": "Διεπαφή χρήστη",
+    "description": ""
+  },
+
+  "titleSoftwareVersion": {
+    "message": "Έκδοση λογισμικού συσκευής",
+    "description": ""
+  },
+
+  "titleDeviceConfig": {
+    "message": "Διαμόρφωση συσκευής",
+    "description": ""
+  },
+
+  "countryLanguage": {
+    "message": "Χώρα: ",
+    "description": ""
+  }
+
+}
